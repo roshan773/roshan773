@@ -1,43 +1,82 @@
-<h2 align="left">👋 Hello World! I'm Pakhre Roshan<br>Welcome to my GitHub! I'm a Full Stack Developer, tech enthusiast, and problem-solver with a passion for building elegant and innovative solutions. Whether it’s designing visually appealing frontends or crafting efficient backends, I’m dedicated to delivering seamless user experiences.<br><br>🌟 What I Bring to the Table<br>Frontend Wizardry: Mastery in HTML, CSS, JavaScript, and frameworks like React, Bootstrap. Sass for creating clean, responsive, and interactive designs.<br>Backend Expertise: Strong knowledge in Node.js, MongoDb ensuring scalability and performance for applications.<br>Creative Design: Experienced in blending functionality with aesthetics to produce standout UI/UX designs.<br>3D & Interactive Web: Exploring cutting-edge technologies like Three.js to integrate 3D elements and gamified interactions into websites.<br>Team Collaboration: Thrives in collaborative environments, mentoring others, and learning from diverse perspectives.<br>🚀 My Mission<br>I believe in the transformative power of technology and aim to create solutions that make life easier, inspire creativity, and spark innovation. My work is focused on:<br><br>Developing unique personal portfolios and interactive websites that leave a lasting impression.<br>Innovating with gamified experiences and 3D-driven web solutions to captivate users.<br>Optimizing performance and responsiveness across all screens and devices.<br>📚 My Journey<br>From small-scale projects to collaborating with startups, my journey has been fueled by curiosity and the drive to continuously learn. Along the way, I’ve embraced challenges that pushed me to grow as both a developer and a creative thinker.<br><br>🎯 Current Focus<br>Perfecting responsive design techniques using Bootstrap and minimal CSS.<br>Experimenting with interactive 3D models and unique cursors for modern web applications.<br>Enhancing website performance to ensure fast and smooth user experiences.<br>🤝 Let’s Build Together!<br>I'm always on the lookout for exciting projects and opportunities to collaborate. Check out my repositories for a glimpse of my work, and feel free to reach out for collaboration, freelancing, or just to chat about cool tech ideas! 🚀</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/roshan__xi/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:pakhreroshan@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/roshan-pakhre/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-###
-
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEzejJ6eWZwamlieHI4aGpqaGk2bnlyanNuazlsa3dlNnc2dTNscyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+  <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
+  <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+React+Specialist;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" />
 </div>
 
+---
+
+## 🏆 **Fun Fact: I Make Websites That Don't Just Work... They Impress!**  
+
+---
+
+## 🌟 About Me  
+
+🎯 **Frontend Expert** → **Pixel-perfect, interactive, and responsive web experiences**.  
+🎨 **UI/UX Enthusiast** → I believe in **minimalism & aesthetics with functionality**.  
+🔥 **Performance-Focused** → Speed, SEO, and **smooth animations are my priorities**.  
+💡 **Continuous Learner** → Always exploring **new tech & pushing boundaries**.  
+
+---
+
+## 🎭 **What If Websites Had a Personality?**
+> _"If my websites could talk, they'd probably say: **'Smooth, Stylish, and Super Fast!'" 🚀_**  
+
+---
+
+## 🔥 **Tech Stack & Superpowers**  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,jquery,git,github,canva" />
+</p>
+
+🚀 **My Special Abilities:**  
+✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
+🎨 **Creative UI/UX** – Interactive, modern, **user-friendly** designs  
+⚡ **Performance Optimization** – **Fast-loading, SEO-friendly, bug-free** websites  
+💡 **Innovation-Driven** – Always adding **fresh, unique ideas** to projects  
+
+---
+
+## 🎮 **Easter Egg Challenge!**  
+> _"Hidden within this README is a small puzzle. Find it and DM me on Twitter for a special surprise!"_ 🧧🔥  
+
+```html
+<!--  
+  Solve this simple riddle:  
+  
+  I speak without a mouth and hear without ears.  
+  I have no body, but I come alive with the wind.  
+  
+  What am I?  
+  
+  DM me the answer on Twitter with "I solved it!" 🚀  
+-->
+```
+
+---
+
+## 👾 **GitHub Stats & Contributions**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan773&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan773&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan773&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌌 **Let's Connect & Collaborate!**  
+
+📩 **Reach Out to Me:**  
+🔗 **Portfolio:** [Your Website](#)  
+📧 **Email:** [Your Email](mailto:youremail@example.com)  
+🌝 **LinkedIn:** [Your LinkedIn](#)  
+🕊 **Twitter:** [Your Twitter](#)  
+
+---
+
+🌟 **If you love what I do, let's build something amazing together!** 🚀
