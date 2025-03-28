@@ -3,7 +3,7 @@
   <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
   <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+React+Specialist;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer+on+the+way;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" />
 </div>
 
 ---
@@ -71,11 +71,9 @@
 
 ## 🌌 **Let's Connect & Collaborate!**  
 
-📩 **Reach Out to Me:**  
-🔗 **Portfolio:** [Your Website](#)  
-📧 **Email:** [Your Email](mailto:youremail@example.com)  
-🌝 **LinkedIn:** [Your LinkedIn](#)  
-🕊 **Twitter:** [Your Twitter](#)  
+📩 **Reach Out to Me:**   
+📧 **Email:** pakhreroshan@gmail.com  
+🌝 **LinkedIn:** https://www.linkedin.com/in/roshan-pakhre/    
 
 ---
 
