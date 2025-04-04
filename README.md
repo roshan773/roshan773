@@ -60,12 +60,17 @@
 
 ## 👾 **GitHub Stats & Contributions**  
 
+## 👾 GitHub Stats & Contributions
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=roshan773&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshan773&theme=dark&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan773&theme=radical" height="180" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan773&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
