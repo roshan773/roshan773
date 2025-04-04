@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=roshan773&theme=dark)](https://git.io/streak-stats)" height="180" />
+ <img src="https://streak-stats.demolab.com?user=roshan773&theme=dark" alt="GitHub Streak Stats" height="180" />
 </p>
 
 <p align="center">
