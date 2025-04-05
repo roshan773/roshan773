@@ -16,7 +16,6 @@
 
 🎯 **Frontend Expert** → **Pixel-perfect, interactive, and responsive web experiences**.  
 🎨 **UI/UX Enthusiast** → I believe in **minimalism & aesthetics with functionality**.  
-🔥 **Performance-Focused** → Speed, SEO, and **smooth animations are my priorities**.  
 💡 **Continuous Learner** → Always exploring **new tech & pushing boundaries**.  
 
 ---
