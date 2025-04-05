@@ -34,8 +34,7 @@
 
 🚀 **My Special Abilities:**  
 ✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
-🎨 **Creative UI/UX** – Interactive, modern, **user-friendly** designs  
-⚡ **Performance Optimization** – **Fast-loading, SEO-friendly, bug-free** websites  
+🎨 **Creative UI/UX** – Interactive, modern, **user-friendly** designs   
 💡 **Innovation-Driven** – Always adding **fresh, unique ideas** to projects  
 
 ---
