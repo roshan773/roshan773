@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" height="150" width="100% />
+  <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" height="150" width="100% />
   <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
   <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
   
