@@ -54,9 +54,7 @@
 -->
 ```
 
----
-
-## 👾 **GitHub Stats & Contributions**  
+--- 
 
 ## 👾 GitHub Stats & Contributions
 
