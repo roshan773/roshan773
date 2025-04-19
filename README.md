@@ -75,20 +75,10 @@ html
 ## 🌌 **Let's Connect & Collaborate!**
 
 <p align="center">
-  <a href="mailto:pakhreroshanofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/roshan773" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/roshan773" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://roshan773.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </p>
 
-📬 **Email me anytime** at: [pakhreroshanofficial@gmail.com](mailto:pakhreroshanofficial@gmail.com)  
-🌐 **Visit my portfolio**: [roshan773.github.io](https://roshan773.github.io)  
-🐦 **DM for collab** on Twitter: [@roshan773](https://twitter.com/roshan773)
+📬 **Email me anytime** at: [pakhreroshanofficial@gmail.com](mailto:pakhreroshan@gmail.com)  
+🌐 **Visit my portfolio**: [roshan773.github.io](https://rpportfolio.netlify.app/)  
