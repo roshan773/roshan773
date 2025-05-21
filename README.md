@@ -36,12 +36,6 @@
 🎨 **Creative UI/UX** – Interactive, modern, **user-friendly** designs   
 💡 **Innovation-Driven** – Always adding **fresh, unique ideas** to projects  
 
----
-
-## 🎮 **Easter Egg Challenge!**  
-> _"Hidden within this README is a small puzzle. Find it and DM me on Twitter for a special surprise!"_ 🧧🔥  
-
-html
 <!--  
   Solve this simple riddle:  
   
