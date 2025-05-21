@@ -73,4 +73,4 @@
 </p>
 
 📬 **Email me anytime** at: [pakhreroshanofficial@gmail.com](mailto:pakhreroshan@gmail.com)  
-🌐 **Visit my portfolio**: [roshan773.github.io](https://rpportfolio.netlify.app/)  
+🌐 **Visit my portfolio**: [Roshan Portfolio](https://roshanportfolio-alpha.vercel.app)  
