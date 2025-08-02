@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" height="150" width="100% />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" height="200" width="100% />
   <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
   <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
   
