@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/80eade9903c3624e41311912bcbc5043d58aa846b11cb1d3e9176f68a6f64c11/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966" height="150" width="100% />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" height="150" width="100% />
   <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
   <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
   
