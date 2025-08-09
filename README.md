@@ -28,7 +28,7 @@
 ## 🔥 **Tech Stack & Superpowers**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,node,express,mongodb,mongoose,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,mongodb,mongoose,git,github,canva" />
 </p>
 
 🚀 **My Special Abilities:**  
