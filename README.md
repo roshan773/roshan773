@@ -28,7 +28,8 @@
 ## 🔥 **Tech Stack & Superpowers**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,mongodb,mongoose,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,mongodb,git,github,canva" alt="Tech Stack Icons" />
+  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" height="48" />
 </p>
 
 🚀 **My Special Abilities:**  
