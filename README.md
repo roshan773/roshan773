@@ -2,27 +2,27 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" alt="Roshan Banner" height="200" width="100%" />
 
   <h1>🚀 Pakhre Roshan – Frontend Developer</h1>
-  <p><i>Transforming Ideas into Interactive, Modern, and Engaging Web Experiences</i></p>
+  <p><em>Transforming ideas into interactive, modern, and engaging web experiences.</em></p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer+in+Progress;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🏆 **Fun Fact**
-> I don’t just build websites — I craft digital experiences that **work flawlessly and leave a lasting impression**.
+## 🏆 Fun Fact
+> I don’t just build websites — I craft digital experiences that deliver seamless performance and leave a lasting impression.
 
 ---
 
 ## 🌟 About Me
 
-- 🎯 **Frontend Specialist** → Expert in creating responsive, interactive, and user-focused designs.  
-- 🎨 **UI/UX Enthusiast** → Minimal, aesthetic, and functional layouts.  
-- 💡 **Lifelong Learner** → Constantly exploring new technologies and trends.  
+- 🎯 **Frontend Specialist** — Skilled in creating responsive, interactive, and user-centric designs.  
+- 🎨 **UI/UX Enthusiast** — Committed to minimalistic, aesthetic, and functional layouts.  
+- 💡 **Lifelong Learner** — Constantly exploring emerging technologies and trends.
 
 ---
 
-## 🚧 What I’m Learning
+## 🚧 Currently Learning
 
 <p align="center">
   <a href="https://redux-toolkit.js.org/">
@@ -38,21 +38,21 @@
 
 ---
 
-## 🎭 **If Websites Had a Personality...**
-_"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
+## 🎭 If Websites Had a Personality...
+> _They would say: **Smooth, Stylish, and Super Fast!** 🚀_
 
 ---
 
-## 🔥 **Tech Stack & Skills**
+## 🔥 Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,mongodb,git,github,canva" alt="Tech Stack Icons" />
 </p>
 
-**Core Skills:**
-- ✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
-- 🎨 **UI/UX Design** – Pixel-perfect, accessible, and engaging  
-- 💡 **Creative Problem Solving** – Innovative and performance-driven solutions  
+**Core Competencies:**  
+- ✅ Frontend Development — HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
+- 🎨 UI/UX Design — Pixel-perfect, accessible, and intuitive interfaces  
+- 💡 Problem Solving — Innovative, performance-driven solutions  
 
 ---
 
@@ -67,7 +67,7 @@ _"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
@@ -80,16 +80,16 @@ _"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
 
 ---
 
-## 🌐 **Let’s Connect & Collaborate**
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:pakhreroshan@gmail.com">
+  <a href="mailto:pakhreroshan@gmail.com" aria-label="Send Email">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/roshan-pakhre/">
+  <a href="https://www.linkedin.com/in/roshan-pakhre/" aria-label="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
-📬 **Email:** [pakhreroshan@gmail.com](mailto:pakhreroshan@gmail.com)  
-🌐 **Portfolio:** [Roshan Portfolio](https://roshanportfolio-alpha.vercel.app)  
+📬 Email: [pakhreroshan@gmail.com](mailto:pakhreroshan@gmail.com)  
+🌐 Portfolio: [https://roshanportfolio-alpha.vercel.app](https://roshanportfolio-alpha.vercel.app)
