@@ -22,6 +22,22 @@
 
 ---
 
+## 🚧 What I’m Learning
+
+<p align="center">
+  <a href="https://redux-toolkit.js.org/">
+    <img src="https://img.shields.io/badge/Learning-Redux%20Toolkit-blue?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  </a>
+  <a href="https://threejs.org/">
+    <img src="https://img.shields.io/badge/Learning-Three.js-orange?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  </a>
+  <a href="https://graphql.org/">
+    <img src="https://img.shields.io/badge/Learning-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  </a>
+</p>
+
+---
+
 ## 🎭 **If Websites Had a Personality...**
 _"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
 
@@ -37,6 +53,17 @@ _"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
 - ✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
 - 🎨 **UI/UX Design** – Pixel-perfect, accessible, and engaging  
 - 💡 **Creative Problem Solving** – Innovative and performance-driven solutions  
+
+---
+
+## 🎉 Fun Stats & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-20%2B-brightgreen?style=for-the-badge&logo=github" alt="Projects Completed" />
+  <img src="https://img.shields.io/badge/Clients-15%2B-blue?style=for-the-badge&logo=customerio" alt="Happy Clients" />
+  <img src="https://img.shields.io/badge/Coffee-Cups-%E2%88%9E-orange?style=for-the-badge&logo=coffeescript" alt="Coffee Lover" />
+  <img src="https://img.shields.io/badge/Experience-3+%20Years-yellow?style=for-the-badge&logo=visualstudiocode" alt="Years Experience" />
+</p>
 
 ---
 
