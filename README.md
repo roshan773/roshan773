@@ -1,79 +1,68 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" height="200" width="100% />
-  <h1>🚀 Pakhre Roshan - Frontend Developer</h1>
-  <p><i>Bringing Ideas to Life | Code, Creativity & Innovation</i></p>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" alt="Roshan Banner" height="200" width="100%" />
+
+  <h1>🚀 Pakhre Roshan – Frontend Developer</h1>
+  <p><i>Transforming Ideas into Interactive, Modern, and Engaging Web Experiences</i></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer+on+the+way;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer+in+Progress;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🏆 **Fun Fact: I Make Websites That Don't Just Work... They Impress!**  
+## 🏆 **Fun Fact**
+> I don’t just build websites — I craft digital experiences that **work flawlessly and leave a lasting impression**.
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
-🎯 **Frontend Expert** → **Pixel-perfect, interactive, and responsive web experiences**.  
-🎨 **UI/UX Enthusiast** → I believe in **minimalism & aesthetics with functionality**.  
-💡 **Continuous Learner** → Always exploring **new tech & pushing boundaries**.  
-
----
-
-## 🎭 **What If Websites Had a Personality?**
-> _"If my websites could talk, they'd probably say: **'Smooth, Stylish, and Super Fast!'" 🚀_**  
+- 🎯 **Frontend Specialist** → Expert in creating responsive, interactive, and user-focused designs.  
+- 🎨 **UI/UX Enthusiast** → Minimal, aesthetic, and functional layouts.  
+- 💡 **Lifelong Learner** → Constantly exploring new technologies and trends.  
 
 ---
 
-## 🔥 **Tech Stack & Superpowers**  
+## 🎭 **If Websites Had a Personality...**
+_"They’d probably say: **Smooth, Stylish, and Super Fast!** 🚀"_
+
+---
+
+## 🔥 **Tech Stack & Skills**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,mongodb,git,github,canva" alt="Tech Stack Icons" />
 </p>
 
-🚀 **My Special Abilities:**  
-✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
-🎨 **Creative UI/UX** – Interactive, modern, **user-friendly** designs   
-💡 **Innovation-Driven** – Always adding **fresh, unique ideas** to projects  
+**Core Skills:**
+- ✅ **Frontend Mastery** – HTML5, CSS3, JavaScript, Bootstrap, Sass, React, jQuery  
+- 🎨 **UI/UX Design** – Pixel-perfect, accessible, and engaging  
+- 💡 **Creative Problem Solving** – Innovative and performance-driven solutions  
 
-<!--  
-  Solve this simple riddle:  
-  
-  I speak without a mouth and hear without ears.  
-  I have no body, but I come alive with the wind.  
-  
-  What am I?  
-  
-  DM me the answer on Twitter with "I solved it!" 🚀  
--->
+---
 
-
---- 
-
-## 👾 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan773&theme=radical" alt="GitHub Streak Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan773&theme=radical" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan773&theme=react-dark&hide_border=true" />
 </p>
 
+---
 
----  
-
-## 🌌 **Let's Connect & Collaborate!**
+## 🌐 **Let’s Connect & Collaborate**
 
 <p align="center">
   <a href="mailto:pakhreroshan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/roshan-pakhre/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
-📬 **Email me anytime** at: [pakhreroshanofficial@gmail.com](mailto:pakhreroshan@gmail.com)  
-🌐 **Visit my portfolio**: [Roshan Portfolio](https://roshanportfolio-alpha.vercel.app)  
+📬 **Email:** [pakhreroshan@gmail.com](mailto:pakhreroshan@gmail.com)  
+🌐 **Portfolio:** [Roshan Portfolio](https://roshanportfolio-alpha.vercel.app)  
