@@ -67,8 +67,12 @@
 ## 🌌 **Let's Connect & Collaborate!**
 
 <p align="center">
-  [Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakhreroshan@gmail.com)
-  [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-pakhre/)
+  <a href="mailto:pakhreroshan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roshan-pakhre/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 📬 **Email me anytime** at: [pakhreroshanofficial@gmail.com](mailto:pakhreroshan@gmail.com)  
