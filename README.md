@@ -4,7 +4,7 @@
   <h1>🚀 Pakhre Roshan – Frontend Developer</h1>
   <p><em>Transforming ideas into interactive, modern, and engaging web experiences.</em></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer+in+Progress;🎨+Pixel+Perfect+UI/UX+Designs;💡+Creative+Thinker+%26+Problem+Solver;🔥+Passionate+about+Tech+%26+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer;🎨+Pixel+Perfect+UI/UX+Designs;💡" alt="Typing Animation" />
 </div>
 
 ---
