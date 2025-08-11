@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1756944000&v=beta&t=4nlrzF0UZmTQL1dHyyywPl_dqGgxlk9J2SrzTfRc8Nw" alt="Roshan Banner" height="200" width="100%" />
 
-  <h1>🚀 Pakhre Roshan – Frontend Developer</h1>
+  <h1 align="center">Pakhre Roshan</h1>
   <p><em>Transforming ideas into interactive, modern, and engaging web experiences.</em></p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F3CC30&center=true&vCenter=true&width=800&lines=🚀+Frontend+Developer+|+Backend+Developer;🎨+Pixel+Perfect+UI/UX+Designs;💡" alt="Typing Animation" />
