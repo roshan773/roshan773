@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="[https://i.ibb.co/M8tr2pg/fullstack-banner.png](https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1758758400&v=beta&t=erbjBGHDGqQJ1lLgMzk2uYuLtQV2aR4jvfuxLf31Uuo)" alt="Roshan | Full Stack Developer Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1758758400&v=beta&t=erbjBGHDGqQJ1lLgMzk2uYuLtQV2aR4jvfuxLf31Uuo" alt="Roshan | Full Stack Developer Banner" width="100%" />
 
-# 👋 Hey, I’m **Roshan** ✨  
-⚡ *Full Stack Developer | UI/UX Enthusiast | Founder (Future) of Roshan Tech Studio*  
+# 👋 Hi, I’m **Roshan Pakhre** ✨  
+⚡ *Full Stack Web Developer | UI/UX Enthusiast | Future Founder of Roshan Tech Studio*  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Builder;🎨+Pixel+Perfect+Designer;💡+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Engineer;🎨+UI%2FUX+Designer;💡+Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -13,59 +13,73 @@
 
 ## 🌟 About Me  
 
-- 🎯 **Frontend Specialist** → Crafting smooth, modern, and interactive UIs  
-- 🎨 **UI/UX Lover** → Minimal, aesthetic, and user-centered designs  
-- 🛠 **Full Stack Explorer** → React, Node.js, MongoDB, Express  
-- 🚀 **Mission 2025** → Launch **Roshan Tech Studio**  
-- 🎧 **Fun Fact** → I code faster with lo-fi beats in the background 🎵  
+- 🎯 **Frontend Specialist** → Building responsive, modern, and user-friendly UIs  
+- 🎨 **UI/UX Focused** → Clean, accessible, and performance-driven design  
+- 🛠 **Full Stack Explorer** → React, Node.js, Express, MongoDB  
+- 🚀 **Goal 2025** → Launch **Roshan Tech Studio** (high-quality digital solutions)  
+- 🎧 **Fun Fact** → Problem-solving is smoother with lo-fi beats 🎵  
 
 ---
 
-## 🏆 Developer Vibes  
+## 🏆 Professional Approach  
 
-> I don’t just code websites...  
-> I **craft digital experiences** that feel *smooth, stylish & unforgettable* 🚀  
-
----
-
-## 🔥 Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,canva,vite" alt="Tech Stack" />
-</p>
-
-**Core Skills:**  
-- ⚛️ **React + Vite** → Blazing fast apps  
-- 🎨 **Bootstrap 5** → Responsive & sleek UI  
-- 📬 **EmailJS** → Instant contact forms  
-- 🔔 **React Toastify** → Smooth notifications  
-- 🖼 **GIFs & Animations** → Add life to websites  
+> I don’t just build websites —  
+> I create **scalable, maintainable, and engaging web solutions** that add business value 🚀  
 
 ---
 
-## 📊 GitHub World  
+## 🔥 Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshan773&theme=radical" height="180" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vite" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan773&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshan773&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</p>
+**Core Expertise:**  
+- ⚛️ **React + Vite** → High-performance frontend apps  
+- 🛠 **Node.js + Express** → RESTful backend services  
+- 🗄 **MongoDB** → Scalable database solutions  
+- 🎨 **Bootstrap 5** → Responsive UI components  
+- 📬 **EmailJS** → Seamless communication integration  
+- 🔔 **React Toastify** → User-friendly notifications  
 
 ---
 
-## 🎮 Fun Mode – “Stats as a Game” 🎮  
+## 📊 GitHub Insights  
 
-🕹 **Level:** 22 → *Frontend Hero*  
-⚔️ **Power:** Full Stack Dev ⚡  
-💎 **Inventory:** React, Node.js, MongoDB, Bootstrap, GitHub  
-🌍 **Quest:** Land a Full Stack role & scale **Roshan Tech Studio**  
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=roshan773&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=roshan773&theme=transparent&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan773&layout=pie&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages Pie" />
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan773&theme=github-compact&hide_border=true&bg_color=0d1117&line=F3CC30&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
+
+---
+
+<img src="https://github.com/roshan773/roshan773/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+---
+
+<p>
+  <img src="https://img.shields.io/github/followers/roshan773?label=Followers&style=for-the-badge&logo=github&color=black&labelColor=F3CC30" />
+  <img src="https://img.shields.io/github/stars/roshan773?label=Stars&style=for-the-badge&logo=github&color=black&labelColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=roshan773&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
@@ -88,17 +102,8 @@
 
 ---
 
-## 👀 Visitors Counter  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshan773&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 <div align="center">
 
-✨ *Why settle for “just working” when you can create something that makes people say:*  
-### **“Whoa, that’s cool!”** 🚀  
+✨ *I aim to deliver solutions that are not only functional but also leave a lasting impact.*  
 
 </div>
