@@ -16,7 +16,7 @@
 - 🎯 **Frontend Specialist** → Building responsive, modern, and user-friendly UIs  
 - 🎨 **UI/UX Focused** → Clean, accessible, and performance-driven design  
 - 🛠 **Full Stack Explorer** → React, Node.js, Express, MongoDB  
-- 🚀 **Goal 2025** → Launch **Roshan Tech Studio** (high-quality digital solutions)  
+- 🚀 **Goal** → Launch **Roshan Tech Studio** (high-quality digital solutions)  
 - 🎧 **Fun Fact** → Problem-solving is smoother with lo-fi beats 🎵  
 
 ---
