@@ -69,14 +69,9 @@
 
 ---
 
-<img src="https://github.com/roshan773/roshan773/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
----
-
 <p>
   <img src="https://img.shields.io/github/followers/roshan773?label=Followers&style=for-the-badge&logo=github&color=black&labelColor=F3CC30" />
   <img src="https://img.shields.io/github/stars/roshan773?label=Stars&style=for-the-badge&logo=github&color=black&labelColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=roshan773&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 </div>
