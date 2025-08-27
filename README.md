@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1758758400&v=beta&t=erbjBGHDGqQJ1lLgMzk2uYuLtQV2aR4jvfuxLf31Uuo" alt="Roshan | Full Stack Developer Banner" width="100%" />
 
 # 👋 Hi, I’m **Roshan Pakhre** ✨  
-⚡ *Full Stack Web Developer | UI/UX Enthusiast | Future Founder of Roshan Tech Studio*  
+⚡ *Full Stack Web Developer | UI/UX Enthusiast | Future Founder of Roshan Tech Studio*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Engineer;🎨+UI%2FUX+Designer;💡+Always+Learning" alt="Typing SVG" />
 
@@ -11,40 +11,40 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
-- 🎯 **Frontend Specialist** → Building responsive, modern, and user-friendly UIs  
-- 🎨 **UI/UX Focused** → Clean, accessible, and performance-driven design  
-- 🛠 **Full Stack Explorer** → React, Node.js, Express, MongoDB  
-- 🚀 **Goal** → Launch **Roshan Tech Studio** (high-quality digital solutions)  
-- 🎧 **Fun Fact** → Problem-solving is smoother with lo-fi beats 🎵  
+- 🎯 **Frontend Specialist:** Building responsive, modern, and user-friendly UIs  
+- 🎨 **UI/UX Focused:** Clean, accessible, and performance-driven design  
+- 🛠 **Full Stack Explorer:** React, Node.js, Express, MongoDB  
+- 🚀 **Goal:** Launch **Roshan Tech Studio** (high-quality digital solutions)  
+- 🎧 **Fun Fact:** Problem-solving is smoother with lo-fi beats 🎵  
 
 ---
 
-## 🏆 Professional Approach  
+## 🏆 Professional Approach
 
 > I don’t just build websites —  
-> I create **scalable, maintainable, and engaging web solutions** that add business value 🚀  
+> I create **scalable, maintainable, and engaging web solutions** that add real business value 🚀  
 
 ---
 
-## 🔥 Tech Stack  
+## 🔥 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vite" alt="Tech Stack" />
 </p>
 
 **Core Expertise:**  
-- ⚛️ **React + Vite** → High-performance frontend apps  
-- 🛠 **Node.js + Express** → RESTful backend services  
-- 🗄 **MongoDB** → Scalable database solutions  
-- 🎨 **Bootstrap 5** → Responsive UI components  
-- 📬 **EmailJS** → Seamless communication integration  
-- 🔔 **React Toastify** → User-friendly notifications  
+- ⚛️ **React + Vite:** High-performance frontend apps  
+- 🛠 **Node.js + Express:** RESTful backend services  
+- 🗄 **MongoDB:** Scalable database solutions  
+- 🎨 **Bootstrap 5:** Responsive UI components  
+- 📬 **EmailJS:** Seamless communication integration  
+- 🔔 **React Toastify:** User-friendly notifications  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:pakhreroshan@gmail.com">
