@@ -5,7 +5,7 @@
 # 👋 Hi, I’m **Roshan Pakhre** ✨  
 ⚡ *Full Stack Web Developer | UI/UX Enthusiast | Future Founder of Roshan Tech Studio*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Engineer;🎨+UI%2FUX+Designer;💡+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Engineer;💡+Always+Learning" alt="Typing SVG" />
 
 </div>
 
