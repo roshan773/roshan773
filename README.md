@@ -2,7 +2,7 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFRWHFBVsW3BA/profile-displaybackgroundimage-shrink_350_1400/B4DZewfqiNHAAg-/0/1751012781169?e=1758758400&v=beta&t=erbjBGHDGqQJ1lLgMzk2uYuLtQV2aR4jvfuxLf31Uuo" alt="Roshan | Full Stack Developer Banner" width="100%" />
 
-# 👋 Hi, I’m **Roshan Pakhre** ✨  
+# 👋 Hi, I’m **Roshan Pakhre** ✨ 
 ⚡ *Full Stack Web Developer | UI/UX Enthusiast | Future Founder of Roshan Tech Studio*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=🚀+Frontend+Developer;🛠+Backend+Engineer;💡+Always+Learning" alt="Typing SVG" />
